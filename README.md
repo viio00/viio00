@@ -8,7 +8,7 @@ Learning & creating concurrently
   
 **Socials/Contact**  
 - Telegram: @chynnacardona   
-- Instagram: (https://www.instagram.com/vii0o.0)  
+- Instagram: https://www.instagram.com/vii0o.0
 
 Currently learning Java, Javascript & whatnot  
   
