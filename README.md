@@ -4,7 +4,7 @@ Learning & creating concurrently
 
 **Education**  
 - ABM Graduate  
-- 1st Year BS Information Tecnology
+- 1st Year BS Information Technology
   
 **Socials/Contact**  
 - Telegram: @chynnacardona   
