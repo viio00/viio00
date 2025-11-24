@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome ! (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
 
-<!--
-**viio00/viio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am Chynna, currently a 2nd year BS Information Technology student. 
 
-Here are some ideas to get you started:
+## Education:  
+- _Elementary - Philippine Tong Ho Institute & Eastern Mindoro College_  
+- _High School - Regional Science High School MIMAROPA (JHS) & New Era University (SHS)_  
+- _Present - New Era University_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications:
+- _Loading..._
+
+## Skillsets:  
+- Java
+- HTML, CSS, JS
+- TouchDesigner
+- Data Structures & Algorithms
+- SQL 
