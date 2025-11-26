@@ -1,11 +1,9 @@
 # Welcome ! (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
 
-Hi! I am Chynna, currently a 2nd year BS Information Technology student. 
+Hi! I am Chynna. I aim to be an AI/ML Engineer. 
 
 ## Education:  
-- _Elementary - Philippine Tong Ho Institute & Eastern Mindoro College_  
-- _High School - Regional Science High School MIMAROPA (JHS) & New Era University (SHS)_  
-- _Present - New Era University_
+- _College (Present) - New Era University, 2nd Year, BS Information Technology_
 
 ## Certifications:
 - _Loading..._
