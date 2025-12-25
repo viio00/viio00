@@ -1,4 +1,4 @@
-# Welcome ! (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+# Welcome ! ☆ﾟ.*･｡ﾟ
 
 Hi! I’m Chynna, and I aspire to become an AI/ML engineer. 
 
