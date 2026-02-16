@@ -13,8 +13,9 @@ Hi! I’m Chynna, and I aspire to become an AI/ML engineer.
 
 
 ## Skillsets:  
-- Java
-- HTML, CSS, JS
-- TouchDesigner
+- Java, Python, SQL
+- Web designing: HTML, CSS, JS
+- Statistics, Data Science
+- Scientific & Historical Research
 - Data Structures & Algorithms
-- SQL 
+
