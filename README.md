@@ -1,6 +1,6 @@
 # Welcome ! ☆ﾟ.*･｡ﾟ
 
-Hi! I’m Chynna, and I aspire to become an AI/ML engineer. 
+Hi! I’m Chynna 
 
 ## Education:  
 - _College (Present) - New Era University, 2nd Year, BS Information Technology_
