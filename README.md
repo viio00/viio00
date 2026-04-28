@@ -1,9 +1,10 @@
-# Welcome ! ☆ﾟ.*･｡ﾟ
-
-Hi! I’m Chynna 
+## About me:  
+I’m Chynna. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 ## Education:  
-- _College (Present) - New Era University, 2nd Year, BS Information Technology_
+BS Information Technology  
+New Era University  
+2024-Present  
 
 ## Certifications:
 - _[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5e6a039873d34f95bacd5c471ba6af93)_
@@ -18,3 +19,6 @@ Hi! I’m Chynna
 - Scientific & Historical Research
 - Data Structures & Algorithms
 
+## You may reach me at:  
+Telegram: @chynnacardona  
+Email: cardonachynnam@gmail.com
