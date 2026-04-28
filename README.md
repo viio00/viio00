@@ -1,5 +1,5 @@
 ## About me:  
-I’m Chynna. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+I’m Chynna. I thrive on tackling complex problems and crafting elegant solutions.
 
 ## Education:  
 BS Information Technology  
@@ -14,10 +14,11 @@ New Era University
 
 
 ## Skillsets:  
-- Java, Springboot, Python, SQL, HTML, CSS, JS
-- Statistics, Data Science
-- Scientific & Historical Research
-- Data Structures & Algorithms
+- Programming:  Java, Javascript, Python
+- Databases: IBM DB2 Cloud, SQL, Supabase, Firebase
+- Backend: Springboot, REST APIs, Node.js
+- Frontend: React Native, Vite, Electron, Web fundamentals (HTML/CSS)
+- Tools:  Lucidchart, VS Code, PyCharm, Eclipse, Jamovi
 
 ## You may reach me at:  
 Telegram: @chynnacardona  
