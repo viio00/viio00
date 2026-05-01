@@ -1,3 +1,5 @@
+# Welcome! .✦ ݁˖
+
 ## About me:  
 I’m Chynna. I thrive on tackling complex problems and crafting elegant solutions.
 
@@ -15,11 +17,12 @@ New Era University
 
 
 ## Skillsets:  
-- Programming:  Java, Javascript, Python
-- Databases: IBM DB2 Cloud, SQL, Supabase, Firebase
-- Backend: Springboot, REST APIs, Node.js
-- Frontend: React Native, Vite, Electron, Web fundamentals (HTML/CSS)
-- Tools:  Lucidchart, VS Code, PyCharm, Eclipse, Jamovi
+- Languages: Java, JavaScript, Python
+- Backend & APIs: Spring Boot, REST APIs, Node.js, Database Management (SQL, IBM DB2, NoSQL, Supabase, Firebase)
+- Frontend & Mobile: React, React Native, Vite, Electron, Web Fundamentals (HTML/CSS)
+- Data & Research: Statistics, Scientific & Historical Research, Pentaho, Jamovi
+- DevOps & Productivity: GitHub, Bash (Scripting/Automation), VS Code, PyCharm
+- Business Operations: Bookkeeping & Compliance (BIRForms)
 
 ## You may reach me at:  
 Telegram: @chynnacardona  
