@@ -17,12 +17,12 @@ New Era University
 
 
 ## Skillsets:  
-- Languages: Java, JavaScript, Python
-- Backend & APIs: Spring Boot, REST APIs, Node.js, Database Management (SQL, IBM DB2, NoSQL, Supabase, Firebase)
-- Frontend & Mobile: React, React Native, Vite, Electron, Web Fundamentals (HTML/CSS)
-- Data & Research: Statistics, Scientific & Historical Research, Pentaho, Jamovi
-- DevOps & Productivity: GitHub, Bash (Scripting/Automation), VS Code, PyCharm
-- Business Operations: Bookkeeping & Compliance (BIRForms)
+- **Languages:** Java, JavaScript, Python
+- **Backend & APIs:** Spring Boot, REST APIs, Node.js, Database Management (SQL, IBM DB2, NoSQL, Supabase, Firebase)
+- **Frontend & Mobile:** React, React Native, Vite, Electron, Web Fundamentals (HTML/CSS)
+- **Data & Research:** Statistics, Scientific & Historical Research, Pentaho, Jamovi
+- **DevOps & Productivity:** GitHub, Bash (Scripting/Automation), VS Code, PyCharm
+- **Business Operations:** Bookkeeping & Compliance (BIRForms)
 
 ## You may reach me at:  
 Telegram: @chynnacardona  
